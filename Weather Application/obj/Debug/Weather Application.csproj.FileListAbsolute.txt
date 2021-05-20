@@ -1,0 +1,15 @@
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\bin\Debug\Weather Application.exe.config
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\bin\Debug\Weather Application.exe
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\bin\Debug\Weather Application.pdb
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\Weather Application.csprojResolveAssemblyReference.cache
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\MainWindow.baml
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\MainWindow.g.cs
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\App.g.cs
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\Weather Application_MarkupCompile.cache
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\Weather Application.g.resources
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\Weather_Application.Properties.Resources.resources
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.GenerateResource.Cache
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\Weather Application.exe
+c:\users\usman\documents\visual studio 2013\Projects\Weather Application\Weather Application\obj\Debug\Weather Application.pdb
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.xml
